@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya
-- 👀 I’m interested in bioinformatics, machine learning and how computational methods can be applied to better understand the human health.
-- 🌱 I’m currently learning python,machine learning and dabbling a bit into SQL.
+- 👀 I’m interested in bioinformatics,machine learning and how computational methods can be applied to better understand the human health.
+- 🌱 I’m currently learning python,machine learning and been dabbling a bit into SQL.
 
 
 <!---
