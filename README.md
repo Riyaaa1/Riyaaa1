@@ -1,2 +1,2 @@
-[!NOTE]
-This is to test the markdown alert feature
+> [!NOTE]
+> This is to test the markdown alert feature
